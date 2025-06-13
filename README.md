@@ -56,7 +56,7 @@
 
 ## 🌐 Portfólio
 
-- 💼 Acesse meu portfólio: [https://ghh-eflo.vercel.app/](https://ghh-eflo.vercel.app/)
+- 💼 Acesse meu portfólio: [https://devkauan.vercel.app/](https://devkauan.vercel.app/)
 
 ---
 
